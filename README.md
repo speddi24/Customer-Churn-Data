@@ -1,4 +1,4 @@
-# predict-churnrate on Telecom data
+# Predict-Attrition/Churn rate of Telecom data
 
 This repository consists of a python notebook with satatistical analysis of telecom data obtained from kaggle and predictive modeling of the data to determine the churn rate, related .csv file with data.
 
